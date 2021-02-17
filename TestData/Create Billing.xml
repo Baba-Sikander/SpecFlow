@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tests>
+  <TestCase ScenarioName="Create Billing">
+    <TestData>
+      <!--<JobNumber>JOB0000135</JobNumber>
+      <ServiceName>Documentation Service</ServiceName>-->
+
+      <JobNumber>JOB0000108</JobNumber>
+      <ServiceName>Agency Service</ServiceName>
+    </TestData>
+  </TestCase>
+</tests>

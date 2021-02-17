@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tests>
+  <TestCase ScenarioName="CreateQuotation">
+    <TestData>
+      <CustomerName>GAC Test</CustomerName>
+      <SalesRep>Majeeth Shaik</SalesRep>
+      <NominatedBy>GAC Dubai</NominatedBy>
+      <ETA>10/12/2020</ETA>
+      <ETB>10/13/2020</ETB>
+      <ETC>10/14/2020</ETC>
+      <ETD>10/15/2020</ETD>
+    </TestData>
+  </TestCase>
+</tests>
