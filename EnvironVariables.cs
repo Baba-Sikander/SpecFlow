@@ -40,7 +40,7 @@ namespace SpecFlow
         public static string ScreenshotType = "Embedded";
         public static string VideoRecordingFlag;
         public static string buildVersion = "";
-        public static string username= "mayank.tripathi@gac.com";
+        public static string username= "";
         public static string Password;
 
     }
